@@ -7,6 +7,7 @@ public class Child extends Parent{
 	@Override
 	public void printParent(){
 		System.out.println("In print of child");
+		System.out.println("In print of child");
 	}
 	
 	public void printChild(){
