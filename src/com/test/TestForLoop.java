@@ -12,7 +12,9 @@ public class TestForLoop {
 			arr[i] = i;
 		}
 		for (int i : arr) {
+		int a = 0;
 			System.out.println(i);
+			int b =0;
 		}*/
 		int a = 1;
 		/*while (a<6) {
