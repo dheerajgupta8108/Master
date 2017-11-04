@@ -5,7 +5,9 @@ public class TestIf {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int marks = 76;
-		int age = 24;
+		int age = 26;
+		int age = 28;
+		
 String s = "dhee";
 		/*if (a>10) {
 			System.out.println("a is grater than 10");
