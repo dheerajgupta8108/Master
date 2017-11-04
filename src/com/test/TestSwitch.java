@@ -5,6 +5,7 @@ public class TestSwitch {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int a = 5;
+		int a = 2;
 		switch (a) {
 		case 1:System.out.println("1");
 			
