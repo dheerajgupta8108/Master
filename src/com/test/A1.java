@@ -6,9 +6,15 @@ public class A1 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		
+		System.out.println("max: "+currentMAx);
+<<<<<<< HEAD
+//		Scanner sc = new Scanner(System.in);
+		System.out.println("max: "+currentMAx);
+=======
+>>>>>>> 4653ce3... Update A1.java
 
 		int n = sc.nextInt();
+System.out.println("max: "+currentMAx);		
 		int[] arr = new int[n];
 		for(int i = 0; i<n; i++){
 			arr[i] = sc.nextInt();
