@@ -14,6 +14,7 @@ public class Child extends Parent{
 		super.printParent();
 		this.printParent();
 		System.out.println(c);
+		System.out.println(c);
 		System.out.println(d);
 	}
 	
