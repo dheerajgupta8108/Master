@@ -8,6 +8,7 @@ public class A1 {
 		Scanner sc = new Scanner(System.in);
 //		Scanner sc = new Scanner(System.in);
 		System.out.println("max: "+currentMAx);
+		System.out.println("max: "+currentMAx);
 
 		int n = sc.nextInt();
 System.out.println("max: "+currentMAx);		

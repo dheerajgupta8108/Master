@@ -5,7 +5,7 @@ public class Parent {
 	int b;
 	
 	public void printParent(){
-		System.out.println(a);
+		System.out.println(b);
 		System.out.println(b);
 	}
 	
