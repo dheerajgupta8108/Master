@@ -6,12 +6,19 @@ public class A1 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
+
 		System.out.println("max: "+currentMAx);
-<<<<<<< HEAD
+
 //		Scanner sc = new Scanner(System.in);
 		System.out.println("max: "+currentMAx);
-=======
->>>>>>> 4653ce3... Update A1.java
+
+
+		System.out.println("max: "+currentMAx);
+
+//		Scanner sc = new Scanner(System.in);
+		System.out.println("max: "+currentMAx);
+		System.out.println("max: "+currentMAx);
+
 
 		int n = sc.nextInt();
 System.out.println("max: "+currentMAx);		

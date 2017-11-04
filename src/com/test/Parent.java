@@ -6,10 +6,11 @@ public class Parent {
 	
 	public void printParent(){
 		System.out.println(b);
-<<<<<<< HEAD
+
 		int a = 0;
-=======
->>>>>>> 1583b4e... Update Parent.java
+
+		System.out.println(b);
+		int a = 0;
 		System.out.println(b);
 	}
 	
